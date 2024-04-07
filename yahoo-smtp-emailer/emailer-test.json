@@ -1,0 +1,7 @@
+{"sender": {
+	"email": "your-email-address@yahoo.com",
+	"login": "...",
+	"password": "your-password-here",
+	"host": "smtp.mail.yahoo.com",
+	"port": "587"
+}}
